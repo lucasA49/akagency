@@ -114,7 +114,7 @@ const WHY_US = [
 const FAQ = [
   { q: 'Quel est le délai moyen de réalisation ?', a: "Un site vitrine prend 3 à 6 semaines, un e-commerce 6 à 10 semaines. Les projets sur mesure sont estimés au cas par cas lors du devis." },
   { q: 'Proposez-vous la maintenance après livraison ?', a: "Oui, des contrats de maintenance mensuelle sont disponibles (mises à jour, sauvegardes, monitoring, évolutions mineures)." },
-  { q: 'Je peux modifier mon site moi-même ?', a: "Absolument. On intègre systématiquement un CMS simple d'utilisation et on vous forme à son usage." },
+  { q: 'Le site est-il optimisé pour Google (SEO) ?', a: "Oui. Chaque site est livré avec une base SEO technique solide : balises méta, structure sémantique, sitemap, performances et compatibilité mobile. Un accompagnement SEO plus poussé peut être ajouté sur devis." },
   { q: "Mon budget est limité, pouvez-vous m'aider quand même ?", a: "On s'adapte. Dites-nous votre budget lors de la prise de contact et on trouvera ensemble la meilleure approche." },
 ];
 

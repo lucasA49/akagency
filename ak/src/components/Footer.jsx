@@ -150,7 +150,7 @@ export default function Footer() {
               Mentions légales & CGV
             </Link>
             <span>·</span>
-            <span>Fait avec ♥ en France</span>
+            <span>Fait avec ♥ par AK Agency</span>
             <span>·</span>
             <Link
               to="/admin/login"
